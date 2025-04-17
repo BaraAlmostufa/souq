@@ -1,0 +1,81 @@
+﻿@model Product
+
+
+<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="breadcrumb-wrapper">
+					<h2 class="product-title">Details</h2>
+					<ol class="breadcrumb">
+						<li><a href="#">Home /</a></li>
+						<li class="current">Details</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="section-padding">
+	<div class="container">
+
+		<div class="product-info row">
+
+			<div class="col-lg-8 col-md-12 col-xs-12">
+				<div class="ads-details-wrapper">
+					<div id="owl-demo" class="owl-carousel owl-theme owl-loaded owl-drag">
+
+
+
+						<div class="owl-stage-outer">
+							<div> 
+								<div  style="width: 690px; margin-right: 30px;">
+									<div class="item">
+										<div class="product-img">
+											<img class="img-fluid" src=" ~ /Imgs/@Model.Image" alt="">
+										</div>
+										<span class="price">@Model.Price </span>
+									</div>
+								
+									
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+
+			</div>
+
+			<div class="col-lg-4 col-md-6 col-xs-12">
+
+				<aside class="details-sidebar">
+					<div class="widget">
+						<h4 class="widget-title">"@Model.Name"</h4>
+						<div class="agent-inner">
+							<div class="agent-title">
+								<div class="agent-photo">
+									<a href="#"><img src="~/Imgs/@Model.Image" alt=""></a>
+								</div>
+								<div class="agent-details">
+									<h3><a href="#">@Model.Date</a></h3>
+									<span><i class="lni-phone-handset"></i> @Model.category.Name</span>
+								</div>
+							</div>
+							<input type="text" class="form-control" placeholder="Your Email">
+							<input type="text" class="form-control" placeholder="Your Phone">
+							<p> @Model.Description </p>
+							<button class="btn btn-common fullwidth mt-4">Send Message</button>
+						</div>
+					</div>
+
+				
+				</aside>
+
+			</div>
+		</div>
+
+	</div>
+</div>

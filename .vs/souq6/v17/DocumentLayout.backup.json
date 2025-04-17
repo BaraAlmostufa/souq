@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\souq6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\views\\home\\currentproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\views\\home\\currentproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\views\\home\\getproductbygategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\views\\home\\getproductbygategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\views\\home\\productsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\views\\home\\productsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|c:\\users\\lenovo\\source\\repos\\souq6\\souq6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAAFC0B-BC32-444F-BE7E-5ED32974B9EA}|souq6\\souq6.csproj|solutionrelative:souq6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "souq6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "souq6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T10:11:51.637Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "souq6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "souq6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwE8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T20:49:26.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Program.cs",
+              "RelativeDocumentMoniker": "souq6\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Program.cs",
+              "RelativeToolTip": "souq6\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:00:25.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "category.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Models\\category.cs",
+              "RelativeDocumentMoniker": "souq6\\Models\\category.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Models\\category.cs",
+              "RelativeToolTip": "souq6\\Models\\category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:21:05.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Models\\product.cs",
+              "RelativeDocumentMoniker": "souq6\\Models\\product.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Models\\product.cs",
+              "RelativeToolTip": "souq6\\Models\\product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:23:30.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Home\\CurrentProduct.cshtml",
+              "RelativeDocumentMoniker": "souq6\\Views\\Home\\CurrentProduct.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Home\\CurrentProduct.cshtml",
+              "RelativeToolTip": "souq6\\Views\\Home\\CurrentProduct.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:42:00.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "souq6\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "souq6\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T23:00:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "souq6\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "souq6\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T23:00:29.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "souq6\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "souq6\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T22:31:57.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "souq6\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "souq6\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAQwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:44:57.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "souq6\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "souq6\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:48:56.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Productsearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Home\\Productsearch.cshtml",
+              "RelativeDocumentMoniker": "souq6\\Views\\Home\\Productsearch.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Home\\Productsearch.cshtml",
+              "RelativeToolTip": "souq6\\Views\\Home\\Productsearch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T23:33:15.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductbyGategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Home\\GetProductbyGategory.cshtml",
+              "RelativeDocumentMoniker": "souq6\\Views\\Home\\GetProductbyGategory.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Views\\Home\\GetProductbyGategory.cshtml",
+              "RelativeToolTip": "souq6\\Views\\Home\\GetProductbyGategory.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T23:02:54.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "souq6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\souq6\\souq6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "souq6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:20:34.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
